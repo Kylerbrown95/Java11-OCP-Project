@@ -1,0 +1,12 @@
+Part 2 Notes
+
+Classes
+
+Java code is structured with classes
+Class represents a type of thing or concept, such as Dog, Cat, Ball, Person.
+Each class defines what kind of information (attributes) it can store:
+-A Dog could have a name, colour, size.
+-A Ball would have type, material, and so on.
+Each class defines what kind of behaviours (operations) containing program logic (algorithms) it is capable of:
+-A Dog could bark and fetch a ball
+-A Cat could meow but is not likely to play fetch

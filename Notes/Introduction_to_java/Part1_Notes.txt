@@ -1,0 +1,20 @@
+Part 1 Notes
+
+What is Java?
+
+General purpose programming language
+Object-Oriented and Platform Independent
+Modern uses include writing applications for internet of things, cloud computing etc.
+Invented in 1995
+
+Edition
+Java SE is base edition
+
+How Java works?
+
+Java source code is written in plain text .java
+source code is compiled into byte code .class
+JVM must be installed to target computer 
+JVM executes Java byte code instructions to platform specific code
+
+Note: Java program has to be compiled only once to work on any platform.
