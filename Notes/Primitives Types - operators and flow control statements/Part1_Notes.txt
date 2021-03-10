@@ -1,0 +1,40 @@
+Part 1
+
+8 primitive types available in java 
+
+whole numbers
+byte - 8 bits
+short - 16 bits
+int - 32 bits 
+long - 64 bits 
+
+floating point numbers
+float - 32 bits 
+double - 64 bits
+
+boolean
+boolean - default false 
+
+character
+char - 16 bits default '\u0000'
+
+cannot use a none initialised primitive in variable.
+
+operators in order of precedence
+
+postfix increment and decrement  ++ --
+prefix increment and decrement, and unary ++ -- + - ~ !
+multiplicative  * / % 
+additive + -
+bit shift << >> >>>
+relational < > <= >= instanceof
+equality == !=
+bitwise AND &
+bitwise OR ^
+bitwise inclusive OR |
+logical AND &&
+logical OR ||
+ternary ? :
+assignment = += -= *= /= %= &= ^= |= <<= >>= >>>=
+
+ 
