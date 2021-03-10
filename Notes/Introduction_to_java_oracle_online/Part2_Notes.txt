@@ -1,0 +1,41 @@
+Part 2 Notes
+
+Classes
+
+Java code is structured with classes
+Class represents a type of thing or concept, such as Dog, Cat, Ball, Person.
+Each class defines what kind of information (attributes) it can store:
+-A Dog could have a name, colour, size.
+-A Ball would have type, material, and so on.
+Each class defines what kind of behaviours (operations) containing program logic (algorithms) it is capable of:
+-A Dog could bark and fetch a ball
+-A Cat could meow but is not likely to play fetch
+
+Object 
+Is a specific instance of a class
+
+Inheritance
+You can reuse attributes and behaviours across class hierarchy
+superclass represents a more generic, parent type (living organism)
+superclasses define common attributes and behaviours (eat, propagate)
+subclass represents a more specific, child type (animal, plant_
+subclasses inherit all attributes and behaviours from their parents
+subclasses can define more specific attributes and behaviours (fly, swim).
+
+Java APIs 
+
+Basic data types e.g. String, LocalDateTime, BigDecimal 
+To manipulate collections e.g. Enumeration, ArrayList, HashMap
+To handle generic behaviours and perform system actions e.g. System, Object, Class
+To perform input/output (i/o) e.g. FileInputSteam, FileOutputStream.
+
+Keywords
+keywords cannot be used as identifiers (name of classes, variables, methods etc.)
+Java is case sensitive.
+
+Java naming conventions 
+package - com.oracle
+class - TestClass
+variable - testVariable
+constant - TEST_CONSTANT 
+method - testMehtod();
