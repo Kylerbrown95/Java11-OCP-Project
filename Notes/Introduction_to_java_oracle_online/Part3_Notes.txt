@@ -1,0 +1,29 @@
+Part 3
+
+Java Basic Syntax rules
+All Java statements must be terminated with ; symbol
+Code blocks must be enclosed with { and } 
+Indentation and spaces help readability but are irrelevant
+
+Access Classes Across Packages 
+
+import not used when compiled, prefix is automatically added instead so has no effect
+
+Access modifiers
+public - Visible to any class
+protected - Visible to classes that are in the same package or to subclasses
+<default> - Visible only to classes in the same package
+private - Visible only within the same class
+
+default means no access modifier is set
+
+main method makes the class an executable and entry point.
+
+Compile Java Program with Javac 
+
+The -classpath or -cp parameter points to locations of other classes that may be required to compile your code
+The -d parameter points to a path to store compilation result (The compiler creates package subfolders with compiled class files in the path.)
+provide path to src
+
+javac = Java compile 
+java = Run code
