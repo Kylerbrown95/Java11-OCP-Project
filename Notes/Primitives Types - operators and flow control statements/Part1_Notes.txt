@@ -37,4 +37,9 @@ logical OR ||
 ternary ? :
 assignment = += -= *= /= %= &= ^= |= <<= >>= >>>=
 
+Smaller types are automatically casted to bigger types
+A bigger type can't be be assigned to a smaller value unless explicit type casting
+
+byte + byte will automatically place it to an int
+
  
